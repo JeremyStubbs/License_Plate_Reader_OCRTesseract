@@ -1,2 +1,2 @@
 ## Automatic License Plate Reader
-How to pipe to tesseract with python
+How to use tesseract optical character recognition with python.
